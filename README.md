@@ -1,3 +1,5 @@
+Template:
+
 eHealth Africa has carried out an investigation on various factors that could determine if someone has covid-19 or not. The attached data are cases of covid-19 in the town of  Hocus Pocus. You will use your machine learning and data science techniques for predictive modeling and risk analysis, particularly in the healthcare sector. 
 
 Data Collection and Preparation
