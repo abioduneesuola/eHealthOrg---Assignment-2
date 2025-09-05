@@ -20,9 +20,13 @@ Model Evaluation
 
 Evaluate the models using the testing data with metrics such as accuracy, precision, recall, F1 score, and AUC-ROC.
 
+Compare the performance of different models to select the best one.
+
+Use the model to predict the likelihood of COVID-19 cases based on the factors provided.- Develop a flask API, if possible add an HTML to the model
+
+Deployment
+
+Develop a visualization
+
 Link to project files in Google Docs:
 https://drive.google.com/drive/folders/1nXnTb7hyKkHD3zm1kPD0alx3Xg2HzWg6?usp=sharing
-Compare the performance of different models to select the best one.
-Use the model to predict the likelihood of COVID-19 cases based on the factors provided.- Develop a flask API, if possible add an HTML to the model
-Deployment
-Develop a visualization
